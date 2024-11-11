@@ -36,8 +36,8 @@ function Contact() {
         <textarea placeholder="Message"></textarea>
         <button type="submit">Send Message</button>
       </form>
-      <p>Call us at: <strong>0400475990</strong></p>
-      <p>Visit us at: 312 Elvet Rd, Franklin, Hobart</p>
+      {/* <p>Call us at: <strong>0400475990</strong></p>
+      <p>Visit us at: 312 Elvet Rd, Franklin, Hobart</p> */}
     </section>
   );
 }
